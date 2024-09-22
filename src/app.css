@@ -1,0 +1,12 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+.flexo-1:hover{
+    flex: 3 !important;
+}
+.flex-3{
+    flex: 3 !important;
+}
+.navbar{
+    right: 0 !important;
+}
